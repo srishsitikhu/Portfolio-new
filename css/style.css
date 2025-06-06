@@ -977,9 +977,6 @@ body:not(.dark-mode) .sun-icon,
   align-items: center;
   gap: 2rem;
 }
-.profile-picture {
-  flex: 0 0 auto;
-}
 .profile-picture img {
   width: 200px;
   height: 200px;
